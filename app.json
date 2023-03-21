@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "93dba8b6-eb20-4daa-bab5-c73ae48dab52"
+      }
+    },
+    "owner": "ztamizzen"
   }
 }
